@@ -138,7 +138,7 @@ end
 load('waveletImages.mat');
 load('originalImages.mat');
 %for J = 1: length(testCellSmall)
-for J = 1: 1
+for J = 1: 10
     
     waveletI = waveletImages{J};
     origI = originalImages{J};
