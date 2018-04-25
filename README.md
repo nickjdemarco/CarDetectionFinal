@@ -2,7 +2,7 @@
 IoT Final Project - Car Detection
 
 ## renameImages.m
-Line 5: Rename project directtory to the directory that contains the dataset of 100 images
+Line 5: Rename project directtory to the directory that contains the dataset of 100 images  
 Line 11: Save files to which ever directory you want to save the renamed images to.
 
 ## InputPreprocessing.m
