@@ -11,7 +11,7 @@ tic
 for k = 1:MAXSIZE
 % Create a mat filename, and load it into a structure called matData.
     a = 1;
-    b = 100;
+    b = 10;
     w = round(a + (b-a).*rand(1,1));
 	photoFile = sprintf('Dataset/%d.jpg', k*w);
 	if exist(photoFile, 'file')
